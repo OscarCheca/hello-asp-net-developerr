@@ -16,7 +16,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Profiles\Domain\Model\Entities\" />
       <Folder Include="Profiles\Domain\Services\" />
       <Folder Include="Profiles\Interfaces\Rest\" />
     </ItemGroup>
